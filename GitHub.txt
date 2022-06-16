@@ -1,4 +1,4 @@
-/*Comandos git.*/
+/*Comandos git. Tatuaje+((Nº fútbol*2)+Nº suerte)*/
 
 /*
 
@@ -21,6 +21,5 @@
 9. Bajar y clonar un repositorio (otro quipo)_ _ _ git clone URL
 
 10. Subir los cambios de otro equipo al mismo repositorio (Actualizar)_ _ _ git push -f origin master  
-
 
 */
