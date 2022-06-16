@@ -1,0 +1,26 @@
+/*Comandos git.*/
+
+/*
+
+1.Inicializar  _ _ _ git init
+
+2. Ver estado_ _ _ git status
+
+3. Añadir todo _ _ _ git add .
+ 
+4. Commit _ _ _ git commit -m "string"
+
+5. Ver estado de commit _ _ _ git  log --oneline
+
+6. subir a un repositorio _ _ _ git remote add origin URL
+
+7. completar la subida _ _ _ git push -u origin master
+
+8. Bajar de un repositorio _ _ _  git pull
+
+9. Bajar y clonar un repositorio (otro quipo)_ _ _ git clone URL
+
+10. Subir los cambios de otro equipo al mismo repositorio (Actualizar)_ _ _ git push -f origin master  
+
+
+*/
